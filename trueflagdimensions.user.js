@@ -1,7 +1,7 @@
 // ==/UserScript==
 // @name                True Flag Dimensions
 // @namespace           trueflagdimensions
-// @description         Change 4chan flag width to match the flag's actual dimensions. Also updates and fixes flags.
+// @description         Changes 4chan flag width to match the flag's actual dimensions, along with other quality-of-life improvements.
 // @include             http*://boards.4chan.org/pol/*
 // @include             http*://boards.4chan.org/pol/catalog
 // @include             http*://boards.4chan.org/bant/*
