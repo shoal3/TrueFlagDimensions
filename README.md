@@ -1,6 +1,9 @@
 # True Flag Dimensions
 
-Install here: https://userstyles.org/styles/228027/4chan-true-flag-dimensions
+### Installing
+
+- Install the Stylish browser extension: https://userstyles.org/
+- Follow this link and install the True Flag Dimensions theme: https://userstyles.org/styles/228027/4chan-true-flag-dimensions
 
 ### Changelog
 
