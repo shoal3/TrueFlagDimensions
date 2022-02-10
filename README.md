@@ -1,4 +1,6 @@
-# TrueFlagDimensions
+# True Flag Dimensions
+
+Install here: https://userstyles.org/styles/228027/4chan-true-flag-dimensions
 
 ### Changelog
 
