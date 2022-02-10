@@ -3,7 +3,7 @@
 ### Installing
 
 - Install the Stylish browser extension: https://userstyles.org/
-- Follow this link and install the True Flag Dimensions theme: https://userstyles.org/styles/228027/4chan-true-flag-dimensions
+- Install the True Flag Dimensions theme: https://userstyles.org/styles/228027/4chan-true-flag-dimensions
 
 Alternatively, install as a userscript: https://github.com/shoal3/TrueFlagDimensions/raw/main/4chan-true-flag-dimensions.user.js. DOES NOT WORK WITH 4CHAN X.
 
