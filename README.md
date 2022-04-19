@@ -1,5 +1,7 @@
 # True Flag Dimensions
 
+![Poster](poster.png)
+
 ### Installing
 
 - Install the Stylish browser extension: https://userstyles.org/
