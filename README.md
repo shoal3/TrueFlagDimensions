@@ -11,7 +11,7 @@ Alternatively, install as a userscript: https://github.com/shoal3/TrueFlagDimens
 
 ### Issues
 
-If flags suddenly misalign then manually update the theme in the Stylish extension or replace the userscript. If you dislike a certain flag or think the dimensions are wrong then make a post about it on /flag/ + /extraflags/ (on /int/) and I'll resolve it.
+If flags suddenly misalign then manually update the theme in the Stylish extension or replace the userscript. If you dislike a certain flag, think a flag's dimensions are wrong or want to provide feedback, then make a post about it on /flag/ + /extraflags/ (on /int/) and I'll resolve it. There are some flags where I intentionally used the wrong dimensions (e.g. 21x11px instead of 22x11px) to properly center a symbol with odd width.
 
 ### Changelog
 
