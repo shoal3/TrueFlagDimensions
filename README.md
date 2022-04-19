@@ -9,6 +9,10 @@
 
 Alternatively, install as a userscript: https://github.com/shoal3/TrueFlagDimensions/raw/main/4chan-true-flag-dimensions.user.js. Script does not work with 4chanX.
 
+### Issues
+
+If flags suddenly misalign then manually update the theme in the Stylish extension or replace the userscript. If you dislike a certain flag or think the dimensions are wrong then make a post about it on /flag/ + /extraflags/ (on /int/) and I'll resolve it.
+
 ### Changelog
 
 v1.3 - 19 Apr 2022: Improved Montenegro, France, Syria, Morocco, Germany, Saudi Arabia, Curacao, South Africa, Saint Barthelemy, Guadeloupe, South Sudan, Libya, Canada, UAE, Iraq, UK, Thailand, Costa Rica.
