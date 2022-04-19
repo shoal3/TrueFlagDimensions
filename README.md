@@ -9,7 +9,7 @@ Alternatively, install as a userscript: https://github.com/shoal3/TrueFlagDimens
 
 ### Changelog
 
-v1.3 - 19 Apr 2022: Improved Montenegro, France, Syria, Morocco, Germany, Saudi Arabia, Curacao, South Africa, Saint Barthelemy, Guadeloupe, South Sudan, Libya, Canada, UAE, Iraq, UK, Thailand.
+v1.3 - 19 Apr 2022: Improved Montenegro, France, Syria, Morocco, Germany, Saudi Arabia, Curacao, South Africa, Saint Barthelemy, Guadeloupe, South Sudan, Libya, Canada, UAE, Iraq, UK, Thailand, Costa Rica.
 
 v1.2 - 16 Mar 2022: Replaced Antarctica flag. Redrew Gibraltar. Slightly modified Australia, New Zealand, Micronesia.
 
