@@ -1,5 +1,7 @@
 # True Flag Dimensions
 
+Stylish theme / userscript that converts 4chan's 16x11px flag icons to their true dimensions. Also updates and improves many flags.
+
 ![Poster](poster.png)
 
 ### Installing
