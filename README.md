@@ -17,7 +17,7 @@ If flags suddenly misalign then manually update the theme in the Stylish extensi
 
 ### Changelog
 
-v1.3 - 19 Apr 2022: Improved Montenegro, France, Syria, Morocco, Germany, Saudi Arabia, Curacao, South Africa, Saint Barthelemy, Guadeloupe, South Sudan, Libya, Canada, UAE, Iraq, UK, Thailand, Costa Rica, Bangladesh, Gibraltar, USA, Kuwait, Jordan, Sudan, Palestine.
+v1.3 - 19 Apr 2022: Improved Montenegro, France, Syria, Morocco, Germany, Saudi Arabia, Curacao, South Africa, Saint Barthelemy, Guadeloupe, South Sudan, Libya, Canada, UAE, Iraq, UK, Thailand, Costa Rica, Bangladesh, Gibraltar, USA, Kuwait, Jordan, Sudan, Palestine, Bosnia & Herzegovina.
 
 v1.2 - 16 Mar 2022: Replaced Antarctica flag. Redrew Gibraltar. Slightly modified Australia, New Zealand, Micronesia.
 
